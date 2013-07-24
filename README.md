@@ -2,7 +2,7 @@
 
 Installs [Pixman](http://pixman.org/).
 
-[![Build Status](https://travis-ci.org/mattheath/puppet-pixman.png?branch=master)](https://travis-ci.org/mattheath/puppet-pixman)
+[![Build Status](https://travis-ci.org/boxen/puppet-pixman.png?branch=master)](https://travis-ci.org/boxen/puppet-pixman)
 
 ## Usage
 
