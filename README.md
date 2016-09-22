@@ -1,16 +1,7 @@
 # Pixman Puppet Module for Boxen
 
-Installs [Pixman](http://pixman.org/).
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/boxen/puppet-pixman.png?branch=master)](https://travis-ci.org/boxen/puppet-pixman)
-
-## Usage
-
-```puppet
-include pixman
-```
-
-## Required Puppet Modules
-
-* `boxen`
-* `homebrew`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
